@@ -1,7 +1,7 @@
 JavaScript Blockchain Connectcli Network
 ===
 
-A simple implementation of blockchain using express and web sockets that allows you to add transaction and view the chain details.
+Uma simples implementação de blockchain usando soquetes expressos e web que permite adicionar transações e visualizar os detalhes da cadeia.
 
 ## Frameworks Used
 
@@ -16,9 +16,9 @@ A simple implementation of blockchain using express and web sockets that allows 
 
 ## Start-Up
 
-1. Run `yarn install` or `npm install`
+1. Run `yarn install` ou `npm install`
 
-2. Run `yarn start` or `npm start`
+2. Run `yarn start` ou `npm start`
 
 ## Endpoints
 
@@ -80,6 +80,6 @@ Response:
   },
 ```
 
-LICENSE
+LICENÇA
 ===
 [MIT](LICENSE.md)
