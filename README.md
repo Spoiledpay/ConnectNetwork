@@ -12,7 +12,7 @@ Uma simples implementação de blockchain usando soquetes expressos e web que pe
 
 3. [Express](https://expressjs.com/)
 
-4. [PM2 Runtime](https://pm2.io/runtime/)
+4. [PM2 Runtime](https://pm2.io/)
 
 ## Start-Up
 
